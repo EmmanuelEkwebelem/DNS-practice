@@ -14,7 +14,7 @@ Steps:
 - Click add 'A Record' and fill put "@" for Name, your VM's Public IP Address for [Destination IPV4 Address], and "7200" for TTL
 - SSH into VM through terminal and gitclone or cd into any flask app
 - run: 'sudo apt-get update', 'sudo apt install python3-pip', 'pip3 install flask' and 'python3 _.py'
-- manually type in _.tech into url window
+- manually type in _.tech into url window to arrive at flask app through DNS
 
 Photos/Screenshots are in 'images' folder
 
