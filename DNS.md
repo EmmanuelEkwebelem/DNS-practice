@@ -1,6 +1,6 @@
 Domain Name: [http://blank.handmanny.tech/]
 
-A Record Settings:
+'A' Record Settings:
 - Name: blank.handmanny.tech
 - Destination IPV4 Address: 40.90.232.158
 - TTL: 7200
